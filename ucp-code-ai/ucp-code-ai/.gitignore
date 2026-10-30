@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+.env
+.env.local
+.netlify
+.vercel
+ios/App/Pods
+ios/App/App/public
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
